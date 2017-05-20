@@ -1,0 +1,159 @@
+* hi, i'm ~vilmibm
+
+aka @nate_smith
+let's talk about
+#+BEGIN_EXAMPLE
+         _
+     o  | |    |
+ =_|_    | |  __|   _  _|_  __           _  _=
+  |  |  |/  /  |  |/   |  /  \_|  |  |_/ |/ |
+  |_/|_/|__/\_/|_/|__/o|_/\__/  \/ \/    |  |_/
+#+END_EXAMPLE
+https://tilde.town
+
+pycon 2017
+* 4 srs explanation
+
+** tilde.town is a computer meant for sharing.
+
+- *intentional digital community* 
+- for making *art*, 
+- for *socializing*, 
+- for *learning*.
+- all via *ssh*
+- and *static html*
+
+* 4 srs explanation
+
+
+tilde.town is strictly *non-commercial* and rejects toxic technology trends in
+favor of *empathy* and *sustainable* computing.
+
+*influenced by*
+- 90s technofeminist utopianism
+- Dial-up Bulletin Board Systems (BBSs) of old
+- Geocities
+
+* in users' own words
+(edited for length but not language sry bout it)
+   @vilmibm | dunno, *how would y'all describe the town?*
+l0010o0001l | *the best fucking place to hang out on the internet*
+        mio | *all the goodness of a local pub without smashed furniture, 
+              smoke-seeped walls and clothes*
+     sanqui | *i love how diverse the town is in terms of backgrounds, 
+              preferences, and the amount of tech skill*
+     sanqui | *everybody is welcome to hop on and we'll help make computers not scary*
+       elly | unless you want to build a horror game
+archangelic | *I love that i can make weird art or useful technical things and 
+              they are just as valuable to the town*
+   @vilmibm | <3 <3 <3 is it ok with y'all if i just screenshot all of that 
+              because it's wonderful
+
+* log on to the feels zone
+
+#+BEGIN_EXAMPLE
+We're glad you're here!
+ 
+Some commands to get you started:
++------------------------------------------------------+
+| chat     | join a chatroom with other users.         |
+| bbj      | post in our local forum                   |
+| nano     | edit a file                               |
+| feels    | start a little command line blog          |
+| botany   | plant a little garden                     |
+| graffiti | add to tilde.town/graffiti.html           |
+| alpine   | read and send e-mail to other users.      |
+| wall     | broadcast a message to the whole server.  |
+| aup      | read our code of conduct                  |
++------------------------------------------------------+
+ 
+Stuff to do!
+- Edit public_html/index.html and make a beautiful thing ('nano public_html/index.html')
+- Start a persistent session with `tmux` or `screen`
+- Start a little blog with `feels`
+- Play multiplayer tron with `tron`
+ 
+Help!
+- Confused by a command? run `manual command` to get help for it.
+- Save a file in nano with ctrl+o and quit with ctrl+x
+- Always feel free to ask the chat or post in bbj for help!
+- Check http://tilde.town/~wiki for some tutorials on Unix
+- Is your screen messed up? try pressing ctrl+l
+
+#+END_EXAMPLE
+
+* what do townies do? feels engine
+
+#+BEGIN_EXAMPLE
+$ feels
+=___________________________________________________________=
+|                                                          |
+|  the tilde.town                                          |
+=|  ____ ____ ____ _    ____    ____ _  _ ____ _ _  _ ____  |=
+=|  |___ |___ |___ |    [__     |___ |\ | | __ | |\ | |___  |=
+=|  |    |___ |___ |___ ___]    |___ | \| |__] | | \| |___  |=
+|                               ver 0.9.2 (almost stable)  |
+|__________________________________________________________|
+
+
+
+
+if you don't want to be here at any point, press <ctrl-d> and it'll all go away.
+just keep in mind that you might lose anything you've started here.
+
+
+
+hey, vilmibm.
+
+press <enter> to explore your feels.
+
+#+END_EXAMPLE
+
+* what do townies do? botany
+
+#+BEGIN_EXAMPLE
+   botany 
+
+  options
+    1 - water ())))))))))) 90%                                        .\     .|
+    2 - look                                                           \\    ||  ._
+    3 - garden                                                      ..\ \\. //. //
+    4 - instructions                                                 \ \.\|v ||//
+    5 - exit                                                           \\\ || //
+                                                                       '| \ / /
+  plant: common disco mature aloe                              .  , _ . .\ |,/_ ., _ .
+  score: 944614                                                  ^      '        `    '
+#+END_EXAMPLE
+
+* what do townies do? post on a forum
+#+BEGIN_EXAMPLE
+vilmibm@bbj | 18 threads                                                                                                                                                                                                                                                  
+@== > > T I L D E T O W N < < ==@
+|>> Public Service Annoucements                                                                                                                                                                                                                                          |
+|by ~vilmibm @ 06:47 2017/04/24                                                                                                                                                                                                                                          |
+|5 replies; active 00:13 2017/05/17                                                                                                                                                                                                                                      |
+|last post by ~vilmibm                                                                                                                                                                                                                                                   |
+|---------------------------------------------------------
+|>> Cadastre Thread                                                                                                                                                                                                                                                      |
+|by ~troido @ 20:36 2017/04/12                                                                                                                                                                                                                                           |
+|12 replies; active 07:14 2017/05/09                                                                                                                                                                                                                                     |
+|last post by ~troido                                                                                                                                                                                                                                                    |
+|---------------------------------------------------------
+|>> ITT: Feedback & Bug Reports                                                                                                                                                                                                                                          |
+|by ~desvox @ 14:37 2017/04/12                                                                                                                                                                                                                                           |
+|64 replies; active 15:22 2017/05/05                                                                                                                                                                                                                                     |
+|last post by ~desvox                                                                                                                                                                                                                                                    |
+|---------------------------------------------------------
+#+END_EXAMPLE
+
+* what do townies do? build ascii towns
+
+http://tilde.town/~troido/cadastre/town.html
+
+* what do townies do? make html art
+
+to firefox!
+
+* join us today!
+
+- https://tilde.town
