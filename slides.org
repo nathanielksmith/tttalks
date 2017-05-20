@@ -1,6 +1,7 @@
 * hi, i'm ~vilmibm
 
-aka @nate_smith
+@nate_smith on birdsite
+@vilmibm@cybre.space on mastodon
 let's talk about
 #+BEGIN_EXAMPLE
          _
@@ -24,10 +25,9 @@ pycon 2017
 - and *static html*
 
 * 4 srs explanation
-
-
-tilde.town is strictly *non-commercial* and rejects toxic technology trends in
-favor of *empathy* and *sustainable* computing.
+tilde.town is strictly *non-commercial* and rejects 
+toxic technology trends in favor of *empathy* and 
+*sustainable* computing.
 
 *influenced by*
 - 90s technofeminist utopianism
@@ -42,48 +42,17 @@ l0010o0001l | *the best fucking place to hang out on the internet*
               smoke-seeped walls and clothes*
      sanqui | *i love how diverse the town is in terms of backgrounds, 
               preferences, and the amount of tech skill*
-     sanqui | *everybody is welcome to hop on and we'll help make computers not scary*
+     sanqui | *everybody is welcome to hop on and we'll help make computers not 
+              scary*
        elly | unless you want to build a horror game
 archangelic | *I love that i can make weird art or useful technical things and 
               they are just as valuable to the town*
    @vilmibm | <3 <3 <3 is it ok with y'all if i just screenshot all of that 
               because it's wonderful
 
-* log on to the feels zone
-
-#+BEGIN_EXAMPLE
-We're glad you're here!
- 
-Some commands to get you started:
-+------------------------------------------------------+
-| chat     | join a chatroom with other users.         |
-| bbj      | post in our local forum                   |
-| nano     | edit a file                               |
-| feels    | start a little command line blog          |
-| botany   | plant a little garden                     |
-| graffiti | add to tilde.town/graffiti.html           |
-| alpine   | read and send e-mail to other users.      |
-| wall     | broadcast a message to the whole server.  |
-| aup      | read our code of conduct                  |
-+------------------------------------------------------+
- 
-Stuff to do!
-- Edit public_html/index.html and make a beautiful thing ('nano public_html/index.html')
-- Start a persistent session with `tmux` or `screen`
-- Start a little blog with `feels`
-- Play multiplayer tron with `tron`
- 
-Help!
-- Confused by a command? run `manual command` to get help for it.
-- Save a file in nano with ctrl+o and quit with ctrl+x
-- Always feel free to ask the chat or post in bbj for help!
-- Check http://tilde.town/~wiki for some tutorials on Unix
-- Is your screen messed up? try pressing ctrl+l
-
-#+END_EXAMPLE
-
 * what do townies do? feels engine
-
+- livejournal-like command line blogging
+- can stay private to server or publish to web
 #+BEGIN_EXAMPLE
 $ feels
 =___________________________________________________________=
@@ -94,23 +63,12 @@ $ feels
 =|  |    |___ |___ |___ ___]    |___ | \| |__] | | \| |___  |=
 |                               ver 0.9.2 (almost stable)  |
 |__________________________________________________________|
-
-
-
-
-if you don't want to be here at any point, press <ctrl-d> and it'll all go away.
-just keep in mind that you might lose anything you've started here.
-
-
-
 hey, vilmibm.
 
 press <enter> to explore your feels.
-
 #+END_EXAMPLE
 
 * what do townies do? botany
-
 #+BEGIN_EXAMPLE
    botany 
 
@@ -153,6 +111,13 @@ http://tilde.town/~troido/cadastre/town.html
 * what do townies do? make html art
 
 to firefox!
+
+* how does it work?
+
+- tilde.town runs on python!
+- it's all open source https://github.com/tildetown
+- projects are beginner friendly and a great place 
+  to learn Python and Django
 
 * join us today!
 
